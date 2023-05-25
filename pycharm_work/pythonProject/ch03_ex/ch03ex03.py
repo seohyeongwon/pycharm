@@ -1,0 +1,6 @@
+na = input("name>>")
+job = input("job>>")
+ho = input("home>>")
+print("name{:->20}".format("seo"))
+print("job{:->30}".format("dog"))
+print("home{:->50}".format("very big house"))
